@@ -1,0 +1,22 @@
+Requirements:
+1. User Input:  
+At least one prompt for user input. For example, an input that lets the user influence NPC characteristics, the number of NPCs generated, info for the game the NPCs will be used for, or something else entirely. 
+
+2. Character Attributes:
+   Each NPC must have a name. Create at least 4 more attributes/characteristics for the NPCs to have. 
+
+3. Programming Constructs:  
+Include at least one of each data type: integers, strings, floats, and booleans. 
+Use built-in Python functions.
+Import and use a library, like the `random`, `math`, or ‘time’ library.
+Use `for` or `while` loops.
+Use a list.
+Add comments that briefly explain the purpose of each major section of your code (not every line)
+
+4. Output Requirements:  
+   Print a summary of each NPC's attributes in a clear format.
+
+5. Bonus Features (Optional):
+   Consider additional attributes, saving output to a file, or error handling for user inputs.
+
+Remember to be pythonic! Do not make the code too messy or complicated. You can still earn all the points with a simpler program that meets all the requirements. 
